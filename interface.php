@@ -10,7 +10,7 @@ interface HumanInterface
 
 interface ProgrammerInterface
 {
-    public function coding();
+    private function coding();
 }
 
 // interface vs class
