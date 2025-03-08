@@ -1,0 +1,14 @@
+{
+    "name": "anjas/php-router",
+    "description": "simple php router",
+    "require": {
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anjas\\PhpRouter\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
