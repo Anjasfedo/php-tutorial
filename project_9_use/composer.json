@@ -1,0 +1,5 @@
+{
+    "require": {
+        "anjas/php-router": "dev-main@dev"
+    }
+}
